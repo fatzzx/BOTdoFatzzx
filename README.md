@@ -2,6 +2,8 @@
 
 Este é o meu primeiro projeto utilizando Discord.js, uma biblioteca Node.js para interagir com a API do Discord.
 
+![BOT do Fatzzx](https://styles.redditmedia.com/t5_32nbn/styles/communityIcon_9lypzchzngx51.png)
+
 ## Como rodar o projeto
 
 Para rodar o projeto, é necessário baixar as seguintes dependências:
