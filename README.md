@@ -1,6 +1,7 @@
 # Meu primeiro contato com Discord.js
 
 Este é o meu primeiro projeto utilizando Discord.js, uma biblioteca Node.js para interagir com a API do Discord.
+[Link do BOT ](https://discord.com/api/oauth2/authorize?client_id=1075224698301984848&permissions=8&scope=bot)
 
 ![BOT do Fatzzx](https://styles.redditmedia.com/t5_32nbn/styles/communityIcon_9lypzchzngx51.png)
 
