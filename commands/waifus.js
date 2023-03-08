@@ -47,7 +47,7 @@ module.exports = {
             const password = interaction.options.getString('password');
 
             
-            if (password !== 'fatzzxgostoso') {
+            if (password !== 'sua senha aqui') {
                 await interaction.reply({
                     content: 'Senha incorreta.',
                     ephemeral: true
